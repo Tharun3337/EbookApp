@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38b81d58-ecb5-4f9e-90f9-042d44c69237" name="Changes" comment="initializing the repo">
-      <change beforePath="$PROJECT_DIR$/deployment/docker-compose/.github/workflows/catalog-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/deployment/docker-compose/.github/workflows/catalog-service.yml" afterDir="false" />
-    </list>
+    <list default="true" id="38b81d58-ecb5-4f9e-90f9-042d44c69237" name="Changes" comment="fixing workflow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,11 +135,26 @@
       <option name="project" value="LOCAL" />
       <updated>1770083434801</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixing workflow">
+      <created>1770083721541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770083721541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixing workflow">
+      <created>1770083935893</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770083935893</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initializing the repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="initializing the repo" />
+    <MESSAGE value="fixing workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing workflow" />
   </component>
 </project>
