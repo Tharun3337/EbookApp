@@ -1,0 +1,21 @@
+name: Catalog Service
+
+on:
+  push:
+    paths:
+      -catalog/**
+    branches:
+      - '**'
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    env:
+      working-directory: ./catalog
+    defaults:
+      run:
+        working-directory: ${{env.working-directory }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build with Maven
+        run: ./mvnw -ntp verify
