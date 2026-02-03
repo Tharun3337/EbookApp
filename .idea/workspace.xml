@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38b81d58-ecb5-4f9e-90f9-042d44c69237" name="Changes" comment="initializing the repo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/docker-compose/.github/workflows/catalog-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/docker-compose/infra.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/docker-compose/.github/workflows/catalog-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/deployment/docker-compose/.github/workflows/catalog-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1770061286366</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initializing the repo">
+      <created>1770083254701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770083254701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
